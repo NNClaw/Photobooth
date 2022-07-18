@@ -1,5 +1,5 @@
 # Photobooth
-A game, where you can make a screenshot of an object and it will save the screenshot on your PC. Overall, a very primitive and simple game/program with a simple code execution.
+A game/program, where you can make a screenshot of an object and it will save the screenshot on your PC. Overall, a very primitive and simple game/program with a simple code execution.
 
 
 **Controls**
